@@ -1,6 +1,8 @@
-# Distributed Computing (DC) Lab Practical Experiments
 
-#some other Link:- https://drive.google.com/drive/folders/1GkM8SX-JB6LH6L3vP3354eRKu54N_5On 
+# some other Link:- https://drive.google.com/drive/folders/1GkM8SX-JB6LH6L3vP3354eRKu54N_5On
+
+# Distributed Computing (DC) Lab Practical Experiments
+ 
 This repository contains Java implementations for various Distributed Computing concepts based on the lab practicals. Below is a detailed map of all the experiment files, what they do, why they are structured the way they are, and exactly how to execute them.
 
 ---
